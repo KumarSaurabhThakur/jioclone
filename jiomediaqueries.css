@@ -1,0 +1,178 @@
+@media screen and (max-width: 1760px) {
+    .card .card-heading {
+        font-size: 2.2rem;
+    }
+
+    .card .cardone,
+    .card .cardtwo {
+        padding: 40px;
+    }
+
+    .favourites .thumbnail-heading {
+        font-size: 2.2rem;
+    }
+
+}
+
+@media screen and (max-width: 1450px) {
+    h1 {
+        font-size: 2.6rem !important;
+    }
+
+    .banner {
+        max-width: 75vw;
+    }
+
+    .card {
+        max-width: 65vw;
+    }
+}
+
+@media screen and (max-width: 1325px) {
+    .card {
+        max-width: 70vw;
+    }
+
+    .favourites {
+        max-width: 70vw;
+    }
+
+    .video {
+        max-width: 60vw;
+    }
+
+    .jiobusiness {
+        max-width: 70vw;
+    }
+
+    .big {
+        max-width: 70vw;
+    }
+
+    .knowjio {
+        max-width: 60vw;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    .navbar ul {
+        gap: 30px;
+        margin: 0 10vw 0 2vw;
+    }
+
+    .recharge {
+        max-width: 70vw;
+    }
+
+    .recharge .rechargecard #mobilerecharge,
+    .recharge .rechargecard #fiberrecharge {
+        max-width: 80% !important;
+    }
+
+
+}
+
+@media screen and (max-width: 1080px) {
+    #mobilerecharge .mobilenumber-postpaid input {
+        width: 90%;
+    }
+
+    #fiberrecharge .fibernumber-postpaid input {
+        width: 90%;
+    }
+
+    .card .card-heading {
+        font-size: 2rem;
+    }
+
+    .card {
+        max-width: 80vw;
+    }
+
+    h1 {
+        font-size: 2.3rem !important;
+        text-align: center;
+        line-height: 1.1;
+    }
+
+    .favourites {
+        max-width: 80vw;
+    }
+
+    .video {
+        max-width: 80vw;
+    }
+
+    .big {
+        max-width: 80vw;
+    }
+
+    .jiobusiness {
+        max-width: 80vw;
+    }
+
+    .knowjio {
+        max-width: 80vw;
+    }
+
+    .copyright {
+        max-width: 90vw;
+    }
+
+    .banner {
+        max-width: 80vw;
+    }
+
+    .banner .heading {
+        font-size: 2.5rem;
+        line-height: 1.1;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    p {
+        text-align: center;
+    }
+
+    .navbar .menu-items {
+        display: none;
+    }
+
+    .navbar .nav-links {
+        display: none;
+    }
+
+    .logo .menu {
+        display: flex;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .round {
+        background-position: 30%;
+    }
+
+    .favourites .thumbnailone {
+        background-position: 50%;
+    }
+
+    h1 {
+        font-size: 2rem !important;
+    }
+
+    .banner .heading,
+    .favourites .thumbnail-heading,
+    .jiobusiness .business-heading {
+        font-size: 1.9rem !important;
+    }
+}
+
+@media screen and (max-width: 920px) {
+        body {
+        background-color: lightcyan;
+    }
+
+}
